@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@SushilDeshmukh](https://medium.com/@SushilDeshmukh)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Frontend Developement | UI/UX**
 
 - 📫 How to reach me **sushild869@gmail.com**
 
