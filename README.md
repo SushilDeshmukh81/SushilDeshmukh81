@@ -1,4 +1,4 @@
-  [![MasterHead](Screenshot_24-1-2025_163445_www.seyi.dev)
+[![MasterHead](https://raw.githubusercontent.com/SushilDeshmukh81/Certificates/main/freepik-conference-linkedin-profile-cover-3985535-20250129095331gPW4.png)](https://github.com/SushilDeshmukh81/Certificates)
 <h1 align="center">Hi 👋, I'm Sushil Deshmukh</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
